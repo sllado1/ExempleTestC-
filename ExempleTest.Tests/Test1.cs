@@ -87,5 +87,4 @@ public class Test1
         //Comprova. 
         Assert.Equal(resultatEsperat, resultat);
     }
-
 }
