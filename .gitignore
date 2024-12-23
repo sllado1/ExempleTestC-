@@ -1,0 +1,10 @@
+# Ignore build directories
+Calculadora/bin
+Calculadora/obj
+ExempleTest.Tests/bin
+ExempleTest.Tests/obj
+
+
+# Ignore IDE specific files
+.vscode/
+.idea/
